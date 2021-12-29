@@ -1,0 +1,143 @@
+[[SISL]]
+arch = "aarch64"
+git-tree-sha1 = "701310212db2080a6455f61a15ecaa52e1929a78"
+os = "macos"
+
+    [[SISL.download]]
+    sha256 = "d9301ae0bc3e6c56c10ceb721ab27251c1153386a6b5895abe4b39186bda0481"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.aarch64-apple-darwin.tar.gz"
+[[SISL]]
+arch = "aarch64"
+git-tree-sha1 = "cc4965f0aae9baf25ad4c71e1ba0e6ec14595347"
+libc = "glibc"
+os = "linux"
+
+    [[SISL.download]]
+    sha256 = "058803326c7931efb2bee121ce1fb01ba90133abefe75d9bb3a221e98ebda8d7"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.aarch64-linux-gnu.tar.gz"
+[[SISL]]
+arch = "aarch64"
+git-tree-sha1 = "adbbff579bd4f339a909e509688d25a8cc6fb866"
+libc = "musl"
+os = "linux"
+
+    [[SISL.download]]
+    sha256 = "5db1646e34d3c88670a0d61596c4f7ac7c8fd0f5cc926cb0224918642c8f0c37"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.aarch64-linux-musl.tar.gz"
+[[SISL]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "feac60d479aab76d4d1f5d4e830596830050b40e"
+libc = "glibc"
+os = "linux"
+
+    [[SISL.download]]
+    sha256 = "6da8f1c4e62ce9a51ec2c459cdf5db73866624ae45a934c4f5cdb09fadef0420"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.armv6l-linux-gnueabihf.tar.gz"
+[[SISL]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "14e673bb9e450327dc72fb19fdaa44d737d2ac55"
+libc = "musl"
+os = "linux"
+
+    [[SISL.download]]
+    sha256 = "3bde2ec8bbde48f633924f49f272b00ab72dc8b800ba34e2894b40d0b50c9ab1"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.armv6l-linux-musleabihf.tar.gz"
+[[SISL]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "fe4271f0ae4f7684a504efe90cee38bc7a037d7a"
+libc = "glibc"
+os = "linux"
+
+    [[SISL.download]]
+    sha256 = "7b471b6f33ea7363acd1e32fde5392c623ffb88d5365b5459498ed957ac2b89b"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.armv7l-linux-gnueabihf.tar.gz"
+[[SISL]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b70338a5905bdeaef594048f3fdff812012afeb7"
+libc = "musl"
+os = "linux"
+
+    [[SISL.download]]
+    sha256 = "a97b8532f9ffb3b390c442c170d2c195eadd256149102ac08e86effee44913fa"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.armv7l-linux-musleabihf.tar.gz"
+[[SISL]]
+arch = "i686"
+git-tree-sha1 = "863544f6526030c9485a5f1aebcfc4fe0205fbc8"
+libc = "glibc"
+os = "linux"
+
+    [[SISL.download]]
+    sha256 = "e87cc413bbcb67b41b91d0b5354edd40c93ce01186301fc90981da0d930277d1"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.i686-linux-gnu.tar.gz"
+[[SISL]]
+arch = "i686"
+git-tree-sha1 = "4faaac0e4765bd3aedbdfe41839533f618d31646"
+libc = "musl"
+os = "linux"
+
+    [[SISL.download]]
+    sha256 = "e3b1bf55e77fc80b04c9ff3bde6a80204cc0441d31870c9358548706e72b3d1c"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.i686-linux-musl.tar.gz"
+[[SISL]]
+arch = "i686"
+git-tree-sha1 = "95be1b5fcff54c1d545dfce20ef7eea6b44c3aa1"
+os = "windows"
+
+    [[SISL.download]]
+    sha256 = "f2705e503950dc3ea3375a84e53f701b6198df3967b7e20328f4aba6f3ed81bc"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.i686-w64-mingw32.tar.gz"
+[[SISL]]
+arch = "powerpc64le"
+git-tree-sha1 = "158eb210cee04774efac2463f531fcad8cab784c"
+libc = "glibc"
+os = "linux"
+
+    [[SISL.download]]
+    sha256 = "1953a9acadc3bcb777181d685751e4de06525722b3602116bf7af52f54fe3607"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.powerpc64le-linux-gnu.tar.gz"
+[[SISL]]
+arch = "x86_64"
+git-tree-sha1 = "0295eb9ad1e061355484589dd8bdf81946e64119"
+os = "macos"
+
+    [[SISL.download]]
+    sha256 = "e216106cc2046925ef07dccce3adc2fc7cb02b82f11d8ee766dda6b46673549a"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.x86_64-apple-darwin.tar.gz"
+[[SISL]]
+arch = "x86_64"
+git-tree-sha1 = "72c087c9fb9366290b546a25aa0ee55e13419777"
+libc = "glibc"
+os = "linux"
+
+    [[SISL.download]]
+    sha256 = "61ccd052f5339dc2690c4f497320ff815796c08b5d0ba4f7bd43a59db1778982"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.x86_64-linux-gnu.tar.gz"
+[[SISL]]
+arch = "x86_64"
+git-tree-sha1 = "9a4cefbf2192eed9806f83bf35bb61b275cb36d3"
+libc = "musl"
+os = "linux"
+
+    [[SISL.download]]
+    sha256 = "f0068956456fef2a0bcfaf213a805e77d022bd17459247015845fbdb998b06fa"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.x86_64-linux-musl.tar.gz"
+[[SISL]]
+arch = "x86_64"
+git-tree-sha1 = "2ea69b8b4893241355a86a1dff2fad8756c77fe1"
+os = "freebsd"
+
+    [[SISL.download]]
+    sha256 = "43d7a49fa67a53a2bb5de52fd9277c2e2bf2c8a1e07b18cc55effa3826faf104"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.x86_64-unknown-freebsd.tar.gz"
+[[SISL]]
+arch = "x86_64"
+git-tree-sha1 = "592f7b3099aef64d3e0595e6b3de9da0f86fd9d2"
+os = "windows"
+
+    [[SISL.download]]
+    sha256 = "475ac39c3a79dcbdc5e66b9dee5a0efe751f28abdcca8c4d407032e724a9265f"
+    url = "https://github.com/JuliaBinaryWrappers/SISL_jll.jl/releases/download/SISL-v4.6.0+0/SISL.v4.6.0.x86_64-w64-mingw32.tar.gz"
